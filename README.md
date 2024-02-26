@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Jithin</h1>
+<h1 align="center">Hi 👋, I'm Vishnu K P</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <!-- <img  align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" > -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithiee&label=Profile%20views&color=0e75b6&style=flat" alt="jithiee" /> </p>
 
-- 🔭 I’m currently working on **python project**
+- 🔭 I’m currently working on **Mern stack project**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 👯 I’m looking to collaborate on **open sources**
 
-- 📫 How to reach me **jithinsurendran47@gmail.com**
+- 📫 How to reach me **vishnuto16@gmail.com**
 
 
 
